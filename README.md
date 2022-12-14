@@ -10,6 +10,5 @@ Welcome to the Maximum-A-posteriori-Estimation-MAE-for-Linear-Regression- wiki! 
 ![8](https://user-images.githubusercontent.com/81334079/207736118-c06c39aa-0d80-476e-9f85-0fb9f649c891.jpg)
 ![9](https://user-images.githubusercontent.com/81334079/207736053-621730b8-c72f-489e-b09a-ee737793bc2f.jpg)
 ![10](https://user-images.githubusercontent.com/81334079/207736059-4bd2ecd2-f3aa-4c0d-a9f5-a3e20f9797ee.jpg)
-![12](https://user-images.githubusercontent.com/81334079/207736075-e0ac3989-16fd-4531-b88d-555760c43a19.jpg)
-
-![11](https://user-images.githubusercontent.com/81334079/207736439-bbad862f-2d26-4f45-8899-53a3b1090877.jpg)
+![11](https://user-images.githubusercontent.com/81334079/207737101-fcd0dc89-769f-4fec-b6c5-e04eba1d65c4.jpg)
+![12](https://user-images.githubusercontent.com/81334079/207737105-41ddf032-9e69-4b10-8480-6a4875a6fc57.jpg)
